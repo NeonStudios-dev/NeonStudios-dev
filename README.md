@@ -34,6 +34,6 @@
   <img src="https://profile-counter.glitch.me/NeonStudios-dev/count.svg?"  />
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge">
 </div>
 
